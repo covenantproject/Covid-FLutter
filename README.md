@@ -1,3 +1,5 @@
+# The code in this repo has been retired and superseded by the other repos in this project. It was the original proof of concept. It is kept here for historical purposes.
+
 # Covid-FLutter
 Flutter based mobile app for Covid case tracking, to be connected with rest api to send data on web
 
